@@ -38,7 +38,7 @@ app.get("/", (req, res) => {
           <div class="container">
             <h1>Welcome, Admin!</h1>
             <p>Manage all your flags here!</p>
-            <p class="success">The password is: <strong>CTF{admin_access}</strong></p>
+            <p class="success">The password is: <strong>flag{admin_acc3s5}</strong></p>
           </div>
         </body>
       </html>
